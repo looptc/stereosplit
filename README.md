@@ -42,10 +42,10 @@ Stereo Channel Splitter is a simple C program that splits the channels of a ster
     This program assumes that the input file is in signed 16-bit little-endian format (s16le).
     Feel free to adjust any details or add additional information as needed!
 
-##License
+## License
 
 This project is licensed under the Public Domain.
 
-##Author
+## Author
 
 stereosplit is developed by Abel Romero Pérez.
